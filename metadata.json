@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Quantum Chat",
+  "description": "A next-generation, responsive chat interface featuring real-time streaming, markdown support, and a sleek glassmorphism aesthetic powered by Google Gemini 2.5.",
+  "requestFramePermissions": []
+}
